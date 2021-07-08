@@ -1,0 +1,13 @@
+C:\Users\MagicBook\source\repos\zelener\zelener\bin\Debug\netcoreapp3.1\zelener.exe
+C:\Users\MagicBook\source\repos\zelener\zelener\bin\Debug\netcoreapp3.1\zelener.deps.json
+C:\Users\MagicBook\source\repos\zelener\zelener\bin\Debug\netcoreapp3.1\zelener.runtimeconfig.json
+C:\Users\MagicBook\source\repos\zelener\zelener\bin\Debug\netcoreapp3.1\zelener.runtimeconfig.dev.json
+C:\Users\MagicBook\source\repos\zelener\zelener\bin\Debug\netcoreapp3.1\zelener.dll
+C:\Users\MagicBook\source\repos\zelener\zelener\bin\Debug\netcoreapp3.1\zelener.pdb
+C:\Users\MagicBook\source\repos\zelener\zelener\obj\Debug\netcoreapp3.1\zelener.AssemblyInfoInputs.cache
+C:\Users\MagicBook\source\repos\zelener\zelener\obj\Debug\netcoreapp3.1\zelener.AssemblyInfo.cs
+C:\Users\MagicBook\source\repos\zelener\zelener\obj\Debug\netcoreapp3.1\zelener.csproj.CoreCompileInputs.cache
+C:\Users\MagicBook\source\repos\zelener\zelener\obj\Debug\netcoreapp3.1\zelener.dll
+C:\Users\MagicBook\source\repos\zelener\zelener\obj\Debug\netcoreapp3.1\zelener.pdb
+C:\Users\MagicBook\source\repos\zelener\zelener\obj\Debug\netcoreapp3.1\zelener.genruntimeconfig.cache
+C:\Users\MagicBook\source\repos\zelener\zelener\obj\Debug\netcoreapp3.1\zelener.csprojAssemblyReference.cache
